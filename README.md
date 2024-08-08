@@ -37,7 +37,7 @@ O `ft_printf` suporta as seguintes especificações:
 Para compilar e utilizar o `ft_printf`, siga os seguintes passos:
 
 ```sh
-git clone https://github.com/seu-usuario/ft_printf.git
+git clone (https://github.com/tiagomatias930/ft_printf)
 cd ft_printf
 make
 ```
